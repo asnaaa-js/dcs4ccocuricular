@@ -1,0 +1,1 @@
+web : gunicron cocuricular.wsgi --log-file -
